@@ -9,3 +9,6 @@ run:
 
 typecheck:
 	mypy src --strict
+
+run-custom:
+	python main.py --input $(INPUT)
