@@ -1,0 +1,75 @@
+{
+  "target_location": {
+    "latitude": 45.4642,
+    "longitude": 9.19
+  },
+  "competitors": [
+    {
+      "name": "Giacomo Arengario",
+      "category": "restaurant",
+      "subcategory": "italian_restaurant",
+      "address": "Via Guglielmo Marconi 1, Milano",
+      "latitude": 45.4635,
+      "longitude": 9.1895,
+      "distance_meters": 87.1
+    },
+    {
+      "name": "Luini Panzerotti",
+      "category": "restaurant",
+      "subcategory": "italian_restaurant",
+      "address": "Via Santa Radegonda 16, Milano",
+      "latitude": 45.466,
+      "longitude": 9.1905,
+      "distance_meters": 203.9
+    },
+    {
+      "name": "Ristorante Cracco",
+      "category": "restaurant",
+      "subcategory": "italian_restaurant",
+      "address": "Via Victor Hugo 4, Milano",
+      "latitude": 45.4648,
+      "longitude": 9.187,
+      "distance_meters": 243.3
+    },
+    {
+      "name": "Al Mercato Duomo",
+      "category": "restaurant",
+      "subcategory": "italian_restaurant",
+      "address": "Via Sant'Alessandro 1, Milano",
+      "latitude": 45.462,
+      "longitude": 9.191,
+      "distance_meters": 256.8
+    },
+    {
+      "name": "Temakinho Duomo",
+      "category": "restaurant",
+      "subcategory": "japanese_restaurant",
+      "address": "Via Agnello 4, Milano",
+      "latitude": 45.465,
+      "longitude": 9.1935,
+      "distance_meters": 287.1
+    },
+    {
+      "name": "Pescaria Milano",
+      "category": "restaurant",
+      "subcategory": "italian_restaurant",
+      "address": "Via Amedei 5, Milano",
+      "latitude": 45.461,
+      "longitude": 9.188,
+      "distance_meters": 388.5
+    },
+    {
+      "name": "Trattoria Milanese",
+      "category": "restaurant",
+      "subcategory": "italian_restaurant",
+      "address": "Via Santa Marta 11, Milano",
+      "latitude": 45.463,
+      "longitude": 9.185,
+      "distance_meters": 412.1
+    }
+  ],
+  "total_competitors": 7,
+  "average_distance_meters": 268.4,
+  "nearest_competitor_distance": 87.1,
+  "competition_density": "MEDIUM"
+}

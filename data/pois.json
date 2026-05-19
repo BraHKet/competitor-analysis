@@ -1,0 +1,227 @@
+[
+  {
+    "id": "poi_001",
+    "name": "Trattoria Milanese",
+    "category": "restaurant",
+    "subcategory": "italian_restaurant",
+    "address": "Via Santa Marta 11, Milano",
+    "latitude": 45.4630,
+    "longitude": 9.1850
+  },
+  {
+    "id": "poi_002",
+    "name": "Luini Panzerotti",
+    "category": "restaurant",
+    "subcategory": "italian_restaurant",
+    "address": "Via Santa Radegonda 16, Milano",
+    "latitude": 45.4660,
+    "longitude": 9.1905
+  },
+  {
+    "id": "poi_003",
+    "name": "Spontini Pizzeria",
+    "category": "restaurant",
+    "subcategory": "pizzeria",
+    "address": "Via Santa Radegonda 11, Milano",
+    "latitude": 45.4665,
+    "longitude": 9.1915
+  },
+  {
+    "id": "poi_004",
+    "name": "Temakinho Duomo",
+    "category": "restaurant",
+    "subcategory": "japanese_restaurant",
+    "address": "Via Agnello 4, Milano",
+    "latitude": 45.4650,
+    "longitude": 9.1935
+  },
+  {
+    "id": "poi_005",
+    "name": "Peck Italian Bar",
+    "category": "cafe",
+    "subcategory": "cafe",
+    "address": "Via Cesare Cantu 3, Milano",
+    "latitude": 45.4625,
+    "longitude": 9.1878
+  },
+  {
+    "id": "poi_006",
+    "name": "Marchesi 1824",
+    "category": "cafe",
+    "subcategory": "bakery",
+    "address": "Via Monte Napoleone 9, Milano",
+    "latitude": 45.4685,
+    "longitude": 9.1960
+  },
+  {
+    "id": "poi_007",
+    "name": "Cova Milano",
+    "category": "cafe",
+    "subcategory": "cafe",
+    "address": "Via Monte Napoleone 8, Milano",
+    "latitude": 45.4683,
+    "longitude": 9.1955
+  },
+  {
+    "id": "poi_008",
+    "name": "Ristorante Cracco",
+    "category": "restaurant",
+    "subcategory": "italian_restaurant",
+    "address": "Via Victor Hugo 4, Milano",
+    "latitude": 45.4648,
+    "longitude": 9.1870
+  },
+  {
+    "id": "poi_009",
+    "name": "Giacomo Arengario",
+    "category": "restaurant",
+    "subcategory": "italian_restaurant",
+    "address": "Via Guglielmo Marconi 1, Milano",
+    "latitude": 45.4635,
+    "longitude": 9.1895
+  },
+  {
+    "id": "poi_010",
+    "name": "Signorvino Duomo",
+    "category": "bar",
+    "subcategory": "bar",
+    "address": "Piazza del Duomo 21, Milano",
+    "latitude": 45.4642,
+    "longitude": 9.1905
+  },
+  {
+    "id": "poi_011",
+    "name": "Panificio Davide Longoni",
+    "category": "cafe",
+    "subcategory": "bakery",
+    "address": "Via Gerolamo Tiraboschi 19, Milano",
+    "latitude": 45.4580,
+    "longitude": 9.1950
+  },
+  {
+    "id": "poi_012",
+    "name": "Al Mercato Duomo",
+    "category": "restaurant",
+    "subcategory": "italian_restaurant",
+    "address": "Via Sant'Alessandro 1, Milano",
+    "latitude": 45.4620,
+    "longitude": 9.1910
+  },
+  {
+    "id": "poi_013",
+    "name": "Princi Bakery",
+    "category": "cafe",
+    "subcategory": "bakery",
+    "address": "Via Speronari 6, Milano",
+    "latitude": 45.4628,
+    "longitude": 9.1882
+  },
+  {
+    "id": "poi_014",
+    "name": "Pescaria Milano",
+    "category": "restaurant",
+    "subcategory": "italian_restaurant",
+    "address": "Via Amedei 5, Milano",
+    "latitude": 45.4610,
+    "longitude": 9.1880
+  },
+  {
+    "id": "poi_015",
+    "name": "Berbere Pizzeria",
+    "category": "restaurant",
+    "subcategory": "pizzeria",
+    "address": "Via Serafino Balestra 11, Milano",
+    "latitude": 45.4565,
+    "longitude": 9.1870
+  },
+  {
+    "id": "poi_016",
+    "name": "Ristorante Da Giannino",
+    "category": "restaurant",
+    "subcategory": "italian_restaurant",
+    "address": "Via Amedeo Vitale 1, Lambrate, Milano",
+    "latitude": 45.4850,
+    "longitude": 9.2350
+  },
+  {
+    "id": "poi_017",
+    "name": "Pizzeria da Willy",
+    "category": "restaurant",
+    "subcategory": "pizzeria",
+    "address": "Via Giacomo Puccini 2, Bovisa, Milano",
+    "latitude": 45.5050,
+    "longitude": 9.1630
+  },
+  {
+    "id": "poi_018",
+    "name": "Sushi Corner San Siro",
+    "category": "restaurant",
+    "subcategory": "japanese_restaurant",
+    "address": "Via Caprilli 16, San Siro, Milano",
+    "latitude": 45.4780,
+    "longitude": 9.1250
+  },
+  {
+    "id": "poi_019",
+    "name": "Bar Linate",
+    "category": "bar",
+    "subcategory": "bar",
+    "address": "Via dell'Aviazione, Linate, Milano",
+    "latitude": 45.4490,
+    "longitude": 9.2780
+  },
+  {
+    "id": "poi_020",
+    "name": "Cafe Baggio",
+    "category": "cafe",
+    "subcategory": "cafe",
+    "address": "Via delle Forze Armate 300, Baggio, Milano",
+    "latitude": 45.4550,
+    "longitude": 9.0980
+  },
+  {
+    "id": "poi_021",
+    "name": "Trattoria del Nuovo Macello",
+    "category": "restaurant",
+    "subcategory": "italian_restaurant",
+    "address": "Via Cesare Lombroso 20, Milano",
+    "latitude": 45.4470,
+    "longitude": 9.2300
+  },
+  {
+    "id": "poi_022",
+    "name": "Sushi Zen Garibaldi",
+    "category": "restaurant",
+    "subcategory": "japanese_restaurant",
+    "address": "Via Borsieri 28, Isola, Milano",
+    "latitude": 45.4880,
+    "longitude": 9.1870
+  },
+  {
+    "id": "poi_023",
+    "name": "Caffe Napoli Duomo",
+    "category": "cafe",
+    "subcategory": "cafe",
+    "address": "Via Torino 55, Milano",
+    "latitude": 45.4615,
+    "longitude": 9.1855
+  },
+  {
+    "id": "poi_024",
+    "name": "Rossopomodoro Duomo",
+    "category": "restaurant",
+    "subcategory": "pizzeria",
+    "address": "Piazza del Duomo 23, Milano",
+    "latitude": 45.4640,
+    "longitude": 9.1898
+  },
+  {
+    "id": "poi_025",
+    "name": "Forno Brisa Porta Romana",
+    "category": "cafe",
+    "subcategory": "bakery",
+    "address": "Via Muratori 4, Porta Romana, Milano",
+    "latitude": 45.4520,
+    "longitude": 9.1990
+  }
+]
