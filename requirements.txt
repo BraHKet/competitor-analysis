@@ -3,3 +3,7 @@ shapely
 geopy
 pytest
 pandas
+mypy
+
+pandas-stubs
+types-shapely

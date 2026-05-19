@@ -1,12 +1,13 @@
 import src.data_loader as dl
-from src.models import AnalysisInput
+from src.models import AnalysisInput, AnalysisResult
 from src.service import analyze_data
+from typing import Any
 #CLI
 import argparse
 import json
 
 
-def main():
+def main() -> AnalysisResult:
     parser = argparse.ArgumentParser()
 
     parser.add_argument(

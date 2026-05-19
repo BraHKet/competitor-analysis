@@ -1,10 +1,11 @@
 from pydantic import BaseModel
+from typing import Any
 
 class AnalysisInput(BaseModel):
     latitude: float
     longitude: float
     categories: list[str]
-    search_area: dict
+    search_area: dict[str, Any]
 
 class Competitor(BaseModel):
     name: str
@@ -16,7 +17,7 @@ class Competitor(BaseModel):
     distance_meters: float
 
 class AnalysisResult(BaseModel):
-    target_location: dict          # {"latitude": ..., "longitude": ...}
+    target_location: dict[str, float]          # {"latitude": ..., "longitude": ...}
     competitors: list[Competitor]
     total_competitors: int
     average_distance_meters: float | None

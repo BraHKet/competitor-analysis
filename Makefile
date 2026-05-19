@@ -7,5 +7,5 @@ test:
 run:
 	python main.py
 
-lint:
-	python -m compileall src tests
+typecheck:
+	mypy src --strict

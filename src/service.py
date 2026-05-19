@@ -1,10 +1,10 @@
 import pandas as pd
-from .models import Competitor, AnalysisResult
+from src.models import Competitor, AnalysisInput, AnalysisResult
 from geopy.distance import geodesic
 from shapely.geometry import Point, Polygon
 
 
-def analyze_data(df, analysis):
+def analyze_data(df: pd.DataFrame, analysis: AnalysisInput) -> AnalysisResult:
     # LOGICA ANALISI
 
     # Creazione poligono di ricerca
