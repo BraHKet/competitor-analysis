@@ -15,3 +15,8 @@ def load_sample_input():
         data = json.load(f)
         
     return data
+
+
+def load_input(path: str) -> dict:
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
