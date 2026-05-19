@@ -14,12 +14,6 @@ make install
 make run
 ```
 
-## Install
-
-```bash
-make install
-```
-
 ## With custom input
 
 ```bash
